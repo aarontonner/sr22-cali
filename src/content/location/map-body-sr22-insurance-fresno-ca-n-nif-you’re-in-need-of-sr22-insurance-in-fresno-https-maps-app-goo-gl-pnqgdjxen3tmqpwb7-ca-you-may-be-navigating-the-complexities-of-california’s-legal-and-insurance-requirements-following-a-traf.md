@@ -7,10 +7,10 @@ description: For more information or to get started with SR22 insurance in
   challenging time and get back on the road safely and affordably.
 heroTitle: SR22 Insurance Fresno, CA
 heroText: For more information or to get started with SR22 insurance in Fresno,
-  CA, call us at (308) 474-3376. Let us help you navigate this challenging time
-  and get back on the road safely and affordably.  Non-owner SR22 insurance is
-  often cheaper compared to typical auto insurance because it assumes that
-  individuals with such policies do not drive often, leading to lower premiums.
+  CA. Let us help you navigate this challenging time and get back on the road
+  safely and affordably.  Non-owner SR22 insurance is often cheaper compared to
+  typical auto insurance because it assumes that individuals with such policies
+  do not drive often, leading to lower premiums.
 heroAlt: SR22 Insurance in Fresno, CA
 tags:
   - location

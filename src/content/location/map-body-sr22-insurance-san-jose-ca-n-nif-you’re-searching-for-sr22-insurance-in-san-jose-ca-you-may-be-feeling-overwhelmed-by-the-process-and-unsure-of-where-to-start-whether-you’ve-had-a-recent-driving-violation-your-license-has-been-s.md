@@ -7,8 +7,8 @@ description: We provide SR22 insurance services in San Jose, CA. Call (628)
   back on the road safely.
 heroTitle: "SR22 San Jose: Insurance In San Jose, CA"
 heroText: For more information or to get started with your SR22 insurance in San
-  Jose, CA, call us at (308) 474-3376. We’re here to provide the expertise and
-  support you need to move forward with peace of mind.
+  Jose, CA. We’re here to provide the expertise and support you need to move
+  forward with peace of mind.
 heroAlt: SR22 Insurance in San Jose, CA
 tags:
   - location
